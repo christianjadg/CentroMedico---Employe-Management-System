@@ -1,1 +1,2 @@
-# CentroMedicoDSR
+# CentroMedico Employee Management System
+This is a project made during my internship in Centro Medico De Santisimo Hospital. It is requested by the head of the IT department to create a Management system that can be used by the Admin to view, record data of incoming employee and also edit existing data of current employees. I used VB.NET as a programming language and also CRYSTAL REPORT to print the documents. The system also features logs that can be used to monitor previous editing of data inside the database (MySQL).
